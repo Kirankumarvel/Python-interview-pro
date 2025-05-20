@@ -64,7 +64,7 @@ Each Python file covers a **critical concept or gotcha** that can catch develope
 
 ## 📥 Download Bonus Resource
 
-🔗 [**Download Python Interview Checklist (Excel)**]([./resources/Python_Interview_Checklist.xlsx](https://github.com/Kirankumarvel/Python-interview-pro/blob/main/Python_Interview_Checklist.xlsx))
+🔗 [**Download Python Interview Checklist (Excel)**]([https://github.com/Kirankumarvel/Python-interview-pro/blob/main/Python_Interview_Checklist.xlsx])
 Use this to track your learning, mark topics as done, and refer key notes per concept.
 
 ---
@@ -95,7 +95,6 @@ If you find this repo useful:
 
 * ⭐ Star it
 * 🔁 Share with a friend
-* 🔗 [Follow @projectlearners on Instagram](https://www.instagram.com/projectlearners)
 
 ---
 
